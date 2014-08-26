@@ -1,5 +1,5 @@
 ---
 layout: post
-title: How-to-use-Leap-Motion-Controller
+title: How to use Leap Motion Controller
 ---
 
