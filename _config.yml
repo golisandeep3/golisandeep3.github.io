@@ -2,7 +2,7 @@ markdown: redcarpet
 highlighter: null
 permalink: /:title
 
-url:
+url:http://golisandeep3.github.io
 baseurl:
 
 redcarpet:
