@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Nothing yet :(
+I am graduate student in Computer Science at North Carolina State University.
