@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Broadband Connectivity through TV White Spaces
+title: Indoor Localization and its Applications
 ---
 Indoor Localization is a hot topic and has uses in different fields.If you look at current GPS systems which mainly work only in outdoors,thus limiting navigation in indoor environments.Even GPS  systems are accurate upto 100nsecs (30 meters) ,so this may not be feasible to use for indoor applications,which require around nano second accuracy. Indoor Localization technology helps to achieve this nano second accuracy. 
 
