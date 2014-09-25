@@ -24,7 +24,7 @@ Example:
     		{
     			for(Element link : children) {
     			String relHref = link.absUrl("href");
-    					addNodesRecursive(relHref,depth-1);
+    					getLinksRecursive(relHref,depth-1);
     			} 
     		}
     	}*
