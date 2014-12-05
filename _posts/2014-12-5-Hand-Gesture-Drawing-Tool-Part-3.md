@@ -10,7 +10,7 @@ There are mainly four types of Gestures that Leap Motion software can identify (
 
 <h5> Drawing circle</h5>
 To draw a circle, the user has to rotate the index finger either clockwise or anticlockwise direction. As shown in the figure below the index finger is rotated in the form of a circle.
-![enter image description here](circle.jpg)
+![circle Gesture](circle.jpg)
 
 <h5> Drawing Arrow</h5>
 To draw arrows just make a key Tap gesture by tapping it downward. This gesture is similar to pressing a piano key.
@@ -35,3 +35,4 @@ There are many challenges associated with the accuracy and usefulness of gesture
 •	Ability to draw free form diagrams.
 
 You can find the demo video ([here](fff))
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/jJECepNeCJ0&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/jJECepNeCJ0&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
