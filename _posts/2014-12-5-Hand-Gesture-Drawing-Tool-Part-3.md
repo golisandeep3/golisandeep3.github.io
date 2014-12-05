@@ -10,19 +10,19 @@ There are mainly four types of Gestures that Leap Motion software can identify (
 
 <h5> Drawing circle</h5>
 To draw a circle, the user has to rotate the index finger either clockwise or anticlockwise direction. As shown in the figure below the index finger is rotated in the form of a circle.
-![circle Gesture](circle.jpg)
+![Circle Gesture](https://github.com/golisandeep3/golisandeep3.github.io/blob/master/_posts/circlegesture.jpg?raw=true)
 
 <h5> Drawing Arrow</h5>
 To draw arrows just make a key Tap gesture by tapping it downward. This gesture is similar to pressing a piano key.
-![enter image description here](arrowgesture.jpg)
+![Arrow Gesture](https://github.com/golisandeep3/golisandeep3.github.io/blob/master/_posts/arrowgesture.jpg?raw=true)
 
 <h5> Drawing Rectangle</h5>
 To draw rectangles make a swipe gesture by a linear movement of a finger. 
-![enter image description here](circle.jpg)
+![Rectangle Gesture](https://github.com/golisandeep3/golisandeep3.github.io/blob/master/_posts/rectanglegesture.jpg)
 
 <h5> Erase Diagram</h5>
 To erase the complete diagram just make a quick forward tapping movement by a finger. This gesture is similar to touching a vertical touch screen.
-![enter image description here](circle.jpg)
+![Erase Gesture](https://github.com/golisandeep3/golisandeep3.github.io/blob/master/_posts/erasegesture.jpg)
 
 <h4>Challenges</h4>
 There are many challenges associated with the accuracy and usefulness of gesture recognition software. One of the challenges is mapping gestures to draw different shapes. Since there are limited numbers of gestures we could identify right now, it’s better to use free form diagram recognition.
