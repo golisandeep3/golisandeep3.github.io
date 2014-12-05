@@ -16,7 +16,7 @@ To draw a circle, the user has to rotate the index finger either clockwise or an
 <h5> Drawing Arrow</h5>
 To draw arrows just make a key Tap gesture by tapping it downward. This gesture is similar to pressing a piano key.
 
-![Arrow Gesture](https://github.com/golisandeep3/golisandeep3.github.io/blob/master/_posts/arrowgesture.jpg?raw=true)
+![Arrow Gesture](https://github.com/golisandeep3/golisandeep3.github.io/blob/master/_posts/arraowgesture.jpg?raw=true)
 
 <h5> Drawing Rectangle</h5>
 To draw rectangles make a swipe gesture by a linear movement of a finger. 
