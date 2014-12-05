@@ -12,4 +12,4 @@ Diagrams are widely used by Software engineers to capture the structure and orga
 Flexible and efficient interfaces facilitate a richer variety of communication capabilities. Gesture based interaction with computers is quite popular in gaming consoles but there is little usage in modelling diagrams. Modeling complex diagrams involves both Gestures and regular user interfaces. There are many research papers on this topic and computer scientists are working on creating new interfaces to interact with the computer.
 In this project I have created a prototype model to demonstrate the feasibility and advantages of using hand Gestures for drawing models.
 
-You can find more about the System Architecture in  [Part 2](https://github.com/golisandeep3/golisandeep3.github.io/blob/master/_posts/2014-1-9-swap-pairwise-linkedlist.md)
+You can find more about the System Architecture in  [Part 2](http://golisandeep3.github.io/web-crawler/)
