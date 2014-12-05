@@ -21,7 +21,8 @@ The software architecture mainly consists of 3 modules. The Leap motion device s
 (i)	Leap Motion Device
 Leap Motion controller is a hardware used for sensing hand movements. It has 150 degrees field of view and a Z-axis for depth. It can track hand movements at the rate of 200 frames per second.
 
-![Architecture](architecture.jpg)
+![Architecture](https://github.com/golisandeep3/golisandeep3.github.io/blob/master/_posts/architecture.jpg)
+
 (ii)	Leap Motion Gesture Recognition Software
 The Leap Motion software runs as a service (on Windows) or daemon (on Mac and Linux). The software connects to the Leap Motion Controller device over the USB bus. The software analyses the overall motion that has occurred since an earlier frame and synthesizes representative translation, rotation, and scale factors. The Leap Motion SDK provides two varieties of API for getting the Leap Motion data: a native interface and a WebSocket interface. These APIs enable you to create Leap-enabled applications in several programming languages (Java) including JavaScript running in a browser environment.
 (iii)	Drawing Tool Module
