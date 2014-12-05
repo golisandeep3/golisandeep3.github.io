@@ -1,3 +1,8 @@
+---
+layout: post
+title: Hand Gesture Drawing Tool Part 1
+---
+
 **Hand Gesture Based Drawing Tool**
 -------------------------------
 
