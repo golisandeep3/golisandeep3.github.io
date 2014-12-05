@@ -5,7 +5,7 @@ title: Hand Gesture Drawing Tool Part 2
 
 In the previous post ( [Part 1](http://golisandeep3.github.io/Hand-Gesture-Drawing-Tool-Part-1/)) I explained about the tool that  I am currently working on, In this post I will  briefly explain  about the System Architecture  and the technologies used.
 
-<h5>Technologies<h5>
+<h5>Technologies</h5>
 
 Software:  Leap Motion SDK, Java
 
