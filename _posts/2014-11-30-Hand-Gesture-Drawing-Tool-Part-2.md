@@ -28,4 +28,4 @@ The Leap Motion software runs as a service (on Windows) or daemon (on Mac and Li
 (iii)	Drawing Tool Module
 The Drawing tool module uses leap motion API to identify gestures and draws shapes based on the respective gestures. It uses Java Swing to create GUI. The Gestures mentioned in section 4 are mapped to respective shapes and drawn using Java swing API.
 
-In the next post( [Part 3](ghgfbh)) I will explain  more about how to use the tool..
+In the next post( [Part 3](http://golisandeep3.github.io/Hand-Gesture-Drawing-Tool-Part-3/)) I will explain  more about how to use the tool..
