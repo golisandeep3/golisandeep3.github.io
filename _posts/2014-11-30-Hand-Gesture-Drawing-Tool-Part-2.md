@@ -14,7 +14,7 @@ Hardware: Leap Motion Controller
 You find more about how to install Leap motion Software  ( [here](http://golisandeep3.github.io/How-to-use-Leap-Motion-Controller/))
 
 
-<h5>System Architecture<h5>
+<h5>System Architecture</h5>
 
 The software architecture mainly consists of 3 modules. The Leap motion device senses the hand movements and sends the data to the Leap Motion gesture recognition software. The Gesture recognition software analyses the data points and recognizes the hand gestures. The Drawing tool module will map the gestures with the respective shapes and draws it on the canvas.
  
