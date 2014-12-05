@@ -7,7 +7,8 @@ In the previous post ( [Part 1](http://golisandeep3.github.io/Hand-Gesture-Drawi
 
 <h5>Technologies<h5>
 
-Software:  Leap Motion SDK, Java 
+Software:  Leap Motion SDK, Java
+
 Hardware: Leap Motion Controller
 
 You find more about how to install Leap motion Software  ( [here](http://golisandeep3.github.io/How-to-use-Leap-Motion-Controller/))
