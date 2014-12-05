@@ -41,3 +41,9 @@ There are many challenges associated with the accuracy and usefulness of gesture
 
 You can find the demo video ([here](fff))
 
+<h4>References </h4>
+1. “Comparing Gestures and Diagrams” Barbara Tversky,Azadeh Jamalian Columbia University
+2. “An Interactive System for Recognizing Hand drawn UML Diagrams” Edward Lank Queens University
+3. https://developer.leapmotion.com/documentation/java/devguide/Leap_Gestures.html
+
+
