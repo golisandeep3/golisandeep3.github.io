@@ -39,7 +39,7 @@ There are many challenges associated with the accuracy and usefulness of gesture
 
 •	Ability to draw free form diagrams.
 
-You can find the demo video ([here](fff))
+You can find the demo video ([here](https://www.youtube.com/watch?v=SF2hPTjceR4&feature=youtu.be))
 
 <h4>References </h4>
 1. “Comparing Gestures and Diagrams” Barbara Tversky,Azadeh Jamalian Columbia University
