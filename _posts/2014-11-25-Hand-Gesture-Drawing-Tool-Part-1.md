@@ -4,7 +4,7 @@ title: Hand Gesture Drawing Tool Part 1
 ---
 
 
-It is  a Software Drawing tool based on hand Gestures . The tool helps to draw basic shapes with the help of Gestures and create a flow chart. The main idea behind creating this tool is to get hands on using hand gestures and also get a feedback from the end users, on how comfortable are they in using the gesture user interface. It uses Leap motion controller to recognize hand gestures and associate those gestures with basic shapes.
+It is  a Drawing tool based on hand Gestures . The tool helps to draw basic shapes with the help of Gestures and create a flow chart. The main idea behind creating this tool is to get hands on experience  using hand gestures and also get a feedback from the end users, on how comfortable are they in using the gesture user interface. It uses Leap motion controller to recognize hand gestures and associate those gestures with basic shapes.
 
 
 Diagrams are widely used by Software engineers to capture the structure and organization of software systems. They use free-form diagrams to represent process. The traditional way of drawing is by using mouse and keyboard and it will be hard to draw free- form diagrams using these traditional devices. In this project I  developed a gesture based drawing tool. Using gestures you can draw all types of shapes like circle, square, arrow etc. 
