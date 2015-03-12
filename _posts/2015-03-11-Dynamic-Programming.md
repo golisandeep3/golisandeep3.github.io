@@ -41,6 +41,7 @@ n=5    you are solving  n=4, n=2
 n=3    you are solving n=2,n=1
 
 As you can see n=2 is repeated.So what is the best way to solve this problem? You guessed it right.. . store the previously computed results.
+
 ``` java
 int numofways(int n)
 {
