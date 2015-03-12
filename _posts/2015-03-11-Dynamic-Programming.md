@@ -23,6 +23,7 @@ n=4 number of ways =5
 To reach nth step number of ways = numbersofways(n-1) + numberofways(n-2).
 How did we get this relation? Its easy to reach nth step either you have to come from n-1th step or n-2th step.
 
+``` java
 int numofways(int n)
 {
 if(n==1)
@@ -32,6 +33,7 @@ return 2;
 
 return numofways(n-1)+numofways(n-2);
 }
+```
 what is the problem with above problem? Here you are solving the same problem again and again.
 
 n=5    you are solving  n=4, n=2
@@ -39,7 +41,7 @@ n=5    you are solving  n=4, n=2
 n=3    you are solving n=2,n=1
 
 As you can see n=2 is repeated.So what is the best way to solve this problem? You guessed it right.. . store the previously computed results.
-
+``` java
 int numofways(int n)
 {
 int num[] = new int[n+1];
@@ -50,6 +52,7 @@ num[i]=num[i-1]+num[i-2];
 
 return num[n];
 }
+```
 Yahooooooo.. you mastered the Dynamic programming technique..
 Let me give you some tips on it.
 
