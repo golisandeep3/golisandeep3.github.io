@@ -15,3 +15,7 @@
 8. Decision making is hard.There are only few good choices and many bad choices ,pick one of the good choice and commit to it.
 
 9. Be expert in two or more fields.(Ex: Software and psychology  or Software and music)
+
+10. Attitude is more important than skill. If you have right attitude,you can become expert in any skill.
+
+11. Be confident and also have open mind about different areas.
