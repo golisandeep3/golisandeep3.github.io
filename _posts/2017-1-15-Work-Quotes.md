@@ -12,4 +12,6 @@
 
 7. The company culture will influence your thinking and work ethic.It takes a long time to unlearn the bad way of doing things,so better work in a company which is close to your work ethic.
 
-8. There are only few good choices and many bad choices ,pick one of the good choice and commit to it.
+8. Decision making is hard.There are only few good choices and many bad choices ,pick one of the good choice and commit to it.
+
+9. Be expert in two or more fields.(Ex: Software and psychology  or Software and music)
